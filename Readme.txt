@@ -3,3 +3,5 @@ Updated
 Added line to auto trigger jenkins job
 
 test the github hook trigger
+
+Hello testing from Jenkins
